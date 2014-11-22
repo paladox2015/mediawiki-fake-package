@@ -3,6 +3,6 @@
 	"type": "library",
 	"description": "Meta package for MediaWiki to facilitate specifying required MediaWiki versions",
 	"require": {
-		"php": ">=5.3.2"
+		"php": ">=5.3.3"
 	}
 }
